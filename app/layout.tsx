@@ -12,21 +12,22 @@ import {
 const config = SITE_CONFIGS.ramji5;
 
 export const metadata: Metadata = {
-  metadataBase: new URL(config.domain),
+  metadataBase: new URL('https://ramji247online.com'),
   title: {
-    default: `${config.name} | Exclusive High-Roller VIP Lounge & Global Gaming Suite`,
-    template: `%s | ${config.name}`,
+    default: "RAMJI247 | Exclusive High-Roller VIP Lounge & Live Dealer Casino Suite",
+    template: "%s | RAMJI247",
   },
   description: config.description,
-  keywords: [
-    'Ramji5',
-    'VIP sports betting exchange',
-    'high-roller cricket id',
-    'private live casino tables',
-    'luxury betting club india',
-    'instant whatsapp concierge id',
-    'high stakes teen patti',
-    'priority upi cashouts'
+  keywords:   [
+      "RAMJI247 Online",
+      "Online Casino ID India",
+      "Live Teen Patti Real Cash ID",
+      "Andar Bahar Live Dealer",
+      "Aviator Game Online ID",
+      "Lightning Roulette Live India",
+      "VIP Casino Lounge",
+      "Casino ID WhatsApp Number",
+      "Evolution Live Casino ID"
   ],
   authors: [{ name: config.name }],
   creator: config.name,
