@@ -38,6 +38,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: config.domain,
   },
+  verification: {
+    google: 'QHfR0g1bulS-I8tEsyDo-oLU7Sm60PUXb3_HhMhSbvQ',
+  },
   openGraph: {
     title: `${config.name} | Elite VIP Betting Lounge & Casino`,
     description: config.description,
