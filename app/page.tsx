@@ -61,14 +61,14 @@ export default function HomePage() {
               </div>
 
               <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-[1.12]">
-                Privilege Redefined. <br />
+                RAMJI247 Online Casino, <br />
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-400 via-pink-300 to-amber-300">
-                  Elite Sports & VIP Casino.
+                  Live Dealer & Sports Exchange
                 </span>
               </h1>
 
               <p className="text-sm sm:text-base text-neutral-300 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-                Welcome to <strong className="text-rose-400 font-semibold">Ramji5</strong>. Built for high-volume sports traders and luxury casino players. Highest limit tables, zero-delay settlements, and your personal WhatsApp concierge on standby 24/7.
+                Welcome to <strong className="text-rose-400 font-semibold">RAMJI247</strong>. Explore live dealer tables, Indian card classics including Teen Patti and Andar Bahar, and real-time sports exchange markets with 24/7 WhatsApp concierge assistance.
               </p>
 
               <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-3.5 pt-2">
@@ -227,11 +227,47 @@ export default function HomePage() {
       <PaymentMethodsBar />
       <ProvidersBar />
 
-      {/* 5. FAQS */}
+      {/* 5. PLATFORM OVERVIEW & RESPONSIBLE GAMING GUIDE */}
+      <section className="py-12 sm:py-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 border-b border-neutral-900">
+        <div className="max-w-3xl mb-8">
+          <span className="text-xs font-bold text-rose-400 uppercase tracking-widest">Platform Guide</span>
+          <h2 className="text-2xl sm:text-3xl font-extrabold text-white mt-1">
+            RAMJI247 Online Casino &amp; Sports Exchange Overview
+          </h2>
+          <p className="text-xs sm:text-sm text-neutral-300 mt-2 leading-relaxed">
+            RAMJI247 provides structured market information across Indian card games, live studio tables, and in-play sports fixtures. Review our core platform categories and player protection standards below.
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-neutral-300 leading-relaxed">
+          <div className="bg-neutral-900/60 border border-neutral-800 rounded-2xl p-6 space-y-2.5">
+            <h3 className="text-base font-bold text-white">Live Dealer &amp; Indian Card Classics</h3>
+            <p className="text-neutral-400">
+              Our <Link href="/casino" className="text-rose-400 hover:underline">Live Casino directory</Link> covers traditional Indian card formats such as Teen Patti 20-20 and Andar Bahar alongside European Roulette, Lightning Baccarat, and crash multiplier titles from recognized studios including Evolution, Ezugi, and Spribe.
+            </p>
+          </div>
+
+          <div className="bg-neutral-900/60 border border-neutral-800 rounded-2xl p-6 space-y-2.5">
+            <h3 className="text-base font-bold text-white">In-Play Sports Exchange Markets</h3>
+            <p className="text-neutral-400">
+              Track real-time back and lay odds across international T20 leagues, Test cricket, football, and grand slam tennis in the <Link href="/sports" className="text-rose-400 hover:underline">Sports Exchange hub</Link>. Interactive odds cards let you preview market depth and potential returns before connecting with our team.
+            </p>
+          </div>
+
+          <div className="bg-neutral-900/60 border border-neutral-800 rounded-2xl p-6 space-y-2.5">
+            <h3 className="text-base font-bold text-white">Verified Support &amp; 18+ Safe Play</h3>
+            <p className="text-neutral-400">
+              RAMJI247 operates strictly for adults aged 18 and above. Our <Link href="/contact" className="text-rose-400 hover:underline">24/7 WhatsApp support desk</Link> assists with account inquiries and verification, while our <Link href="/responsible-gaming" className="text-rose-400 hover:underline">Responsible Gaming policy</Link> outlines session limits and self-exclusion options.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* 6. FAQS */}
       <FaqAccordion 
         faqs={GENERAL_FAQS}
-        title="Ramji5 VIP Frequently Asked Questions"
-        subtitle="Exclusive answers on high limits, priority banking, and VIP WhatsApp concierge."
+        title="RAMJI247 Frequently Asked Questions"
+        subtitle="Answers on online casino tables, sports exchange markets, and 24/7 WhatsApp concierge support."
         brandPrimary="text-rose-400"
       />
 

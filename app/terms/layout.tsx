@@ -1,15 +1,15 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "VIP Casino Gaming Terms & Fair Play Standards",
-  description: "Certified RNG standards, high-limit settlement policies, and regulatory compliance disclosures.",
-  keywords: ["casino fair play","rng certification online casino","RAMJI247 vip terms"],
+  title: "Terms of Service & Platform Guidelines",
+  description: "Read the RAMJI247 Terms of Service, 18+ age eligibility requirements, informational platform scope, and fair play user guidelines.",
+  keywords: ["ramji247 terms of service","platform guidelines","RAMJI247 user terms"],
   alternates: {
     canonical: "https://ramji247online.com/terms",
   },
   openGraph: {
-    title: "VIP Casino Gaming Terms & Fair Play Standards | RAMJI247",
-    description: "Certified RNG standards, high-limit settlement policies, and regulatory compliance disclosures.",
+    title: "Terms of Service & Platform Guidelines | RAMJI247",
+    description: "Read the RAMJI247 Terms of Service, 18+ age eligibility requirements, informational platform scope, and fair play user guidelines.",
     url: "https://ramji247online.com/terms",
     siteName: "RAMJI247",
     images: [
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "VIP Casino Gaming Terms & Fair Play Standards | RAMJI247",
-    description: "Certified RNG standards, high-limit settlement policies, and regulatory compliance disclosures.",
+    title: "Terms of Service & Platform Guidelines | RAMJI247",
+    description: "Read the RAMJI247 Terms of Service, 18+ age eligibility requirements, informational platform scope, and fair play user guidelines.",
     images: ['/images/logo.png'],
   },
 };

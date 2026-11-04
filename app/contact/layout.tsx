@@ -1,15 +1,15 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "24/7 Dedicated VIP WhatsApp Concierge Desk",
-  description: "Direct access to your dedicated personal account manager on WhatsApp for immediate priority handling.",
-  keywords: ["vip concierge whatsapp","personal account manager casino","RAMJI247 vip desk"],
+  title: "24/7 Official WhatsApp Support & Concierge Desk",
+  description: "Contact the official RAMJI247 24/7 WhatsApp concierge desk (+91 8360750829) for account queries, platform guidance, and user support.",
+  keywords: ["ramji247 contact","ramji247 whatsapp support","RAMJI247 vip desk"],
   alternates: {
     canonical: "https://ramji247online.com/contact",
   },
   openGraph: {
-    title: "24/7 Dedicated VIP WhatsApp Concierge Desk | RAMJI247",
-    description: "Direct access to your dedicated personal account manager on WhatsApp for immediate priority handling.",
+    title: "24/7 Official WhatsApp Support & Concierge Desk | RAMJI247",
+    description: "Contact the official RAMJI247 24/7 WhatsApp concierge desk (+91 8360750829) for account queries, platform guidance, and user support.",
     url: "https://ramji247online.com/contact",
     siteName: "RAMJI247",
     images: [
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "24/7 Dedicated VIP WhatsApp Concierge Desk | RAMJI247",
-    description: "Direct access to your dedicated personal account manager on WhatsApp for immediate priority handling.",
+    title: "24/7 Official WhatsApp Support & Concierge Desk | RAMJI247",
+    description: "Contact the official RAMJI247 24/7 WhatsApp concierge desk (+91 8360750829) for account queries, platform guidance, and user support.",
     images: ['/images/logo.png'],
   },
 };

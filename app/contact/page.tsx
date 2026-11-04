@@ -68,33 +68,33 @@ export default function ContactPage() {
         {/* Support Channels & Guidelines */}
         <div className="lg:col-span-5 space-y-4">
           <div className="bg-neutral-900/60 border border-neutral-800 rounded-xl p-5">
-            <h3 className="text-sm font-bold text-white mb-2 flex items-center gap-2">
+            <h2 className="text-sm font-bold text-white mb-2 flex items-center gap-2">
               <ShieldCheck className="w-4 h-4 text-amber-400" />
               <span>Official Verification Notice</span>
-            </h3>
+            </h2>
             <p className="text-xs text-neutral-400 leading-relaxed">
               Always verify you are contacting our official number: <strong className="text-white">+91 {WHATSAPP_NUMBER}</strong>. We never ask for sensitive bank passwords or OTPs.
             </p>
           </div>
 
           <div className="bg-neutral-900/60 border border-neutral-800 rounded-xl p-5">
-            <h3 className="text-sm font-bold text-white mb-3">Service Level Guarantees</h3>
+            <h2 className="text-sm font-bold text-white mb-3">Support &amp; Response Standards</h2>
             <ul className="space-y-2 text-xs text-neutral-300">
               <li className="flex items-center gap-2">
                 <CheckCircle2 size={14} className="text-emerald-400 shrink-0" />
-                <span>Instant ID Generation: &lt; 60 seconds</span>
+                <span>Account Setup Assistance: Typically under 60 seconds</span>
               </li>
               <li className="flex items-center gap-2">
                 <CheckCircle2 size={14} className="text-emerald-400 shrink-0" />
-                <span>Average WhatsApp Response: 15 seconds</span>
+                <span>Average WhatsApp Response: Under 15 seconds</span>
               </li>
               <li className="flex items-center gap-2">
                 <CheckCircle2 size={14} className="text-emerald-400 shrink-0" />
-                <span>UPI Withdrawal Settlement: 2 to 5 minutes</span>
+                <span>24/7 Account Support in English &amp; Hindi</span>
               </li>
               <li className="flex items-center gap-2">
                 <CheckCircle2 size={14} className="text-emerald-400 shrink-0" />
-                <span>100% Data Confidentiality via End-to-End Chat</span>
+                <span>End-to-End Encrypted Official WhatsApp Desk</span>
               </li>
             </ul>
           </div>

@@ -1,15 +1,15 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "Live Dealer Teen Patti, Andar Bahar & VIP Casino Tables",
-  description: "Experience real human dealers on private tables for Teen Patti, Andar Bahar, Blackjack, and Roulette.",
-  keywords: ["live dealer teen patti","andar bahar live tables","vip roulette suite"],
+  title: "Live Casino Tables, Teen Patti & Andar Bahar",
+  description: "Explore RAMJI247 live dealer casino guides for Teen Patti, Andar Bahar, Roulette, Blackjack, and crash games with 24/7 WhatsApp assistance.",
+  keywords: ["live dealer teen patti","andar bahar live tables","ramji247 online casino"],
   alternates: {
     canonical: "https://ramji247online.com/casino",
   },
   openGraph: {
-    title: "Live Dealer Teen Patti, Andar Bahar & VIP Casino Tables | RAMJI247",
-    description: "Experience real human dealers on private tables for Teen Patti, Andar Bahar, Blackjack, and Roulette.",
+    title: "Live Casino Tables, Teen Patti & Andar Bahar | RAMJI247",
+    description: "Explore RAMJI247 live dealer casino guides for Teen Patti, Andar Bahar, Roulette, Blackjack, and crash games with 24/7 WhatsApp assistance.",
     url: "https://ramji247online.com/casino",
     siteName: "RAMJI247",
     images: [
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "Live Dealer Teen Patti, Andar Bahar & VIP Casino Tables | RAMJI247",
-    description: "Experience real human dealers on private tables for Teen Patti, Andar Bahar, Blackjack, and Roulette.",
+    title: "Live Casino Tables, Teen Patti & Andar Bahar | RAMJI247",
+    description: "Explore RAMJI247 live dealer casino guides for Teen Patti, Andar Bahar, Roulette, Blackjack, and crash games with 24/7 WhatsApp assistance.",
     images: ['/images/logo.png'],
   },
 };

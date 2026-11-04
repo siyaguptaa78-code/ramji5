@@ -1,15 +1,15 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "VIP High-Roller Welcome Bonus & Weekly Cashback",
-  description: "Bespoke reload incentives, personalized VIP cashbacks, and private tournament invitations on RAMJI247.",
-  keywords: ["vip casino bonus","high roller rewards","weekly vip cashback"],
+  title: "Promotions, Welcome Offers & VIP Rewards",
+  description: "Review current RAMJI247 promotional offers, welcome bonus terms, weekly cashback structures, and VIP concierge rewards via WhatsApp.",
+  keywords: ["ramji247 promotions","welcome bonus offers","weekly vip rewards"],
   alternates: {
     canonical: "https://ramji247online.com/promotions",
   },
   openGraph: {
-    title: "VIP High-Roller Welcome Bonus & Weekly Cashback | RAMJI247",
-    description: "Bespoke reload incentives, personalized VIP cashbacks, and private tournament invitations on RAMJI247.",
+    title: "Promotions, Welcome Offers & VIP Rewards | RAMJI247",
+    description: "Review current RAMJI247 promotional offers, welcome bonus terms, weekly cashback structures, and VIP concierge rewards via WhatsApp.",
     url: "https://ramji247online.com/promotions",
     siteName: "RAMJI247",
     images: [
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "VIP High-Roller Welcome Bonus & Weekly Cashback | RAMJI247",
-    description: "Bespoke reload incentives, personalized VIP cashbacks, and private tournament invitations on RAMJI247.",
+    title: "Promotions, Welcome Offers & VIP Rewards | RAMJI247",
+    description: "Review current RAMJI247 promotional offers, welcome bonus terms, weekly cashback structures, and VIP concierge rewards via WhatsApp.",
     images: ['/images/logo.png'],
   },
 };

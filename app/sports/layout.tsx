@@ -1,15 +1,15 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "VIP Sports Trading & High-Liquidity Exchange",
-  description: "High-limit sports exchange trading with institutional depth and priority WhatsApp settlement for VIP players.",
-  keywords: ["vip sports exchange","high limit cricket id","vip betting desk"],
+  title: "Sports Exchange Markets & Live Cricket Odds",
+  description: "View live cricket, football, and tennis exchange markets on RAMJI247 with real-time odds depth, fixture schedules, and WhatsApp support.",
+  keywords: ["ramji247 sports exchange","live cricket odds","in-play sports markets"],
   alternates: {
     canonical: "https://ramji247online.com/sports",
   },
   openGraph: {
-    title: "VIP Sports Trading & High-Liquidity Exchange | RAMJI247",
-    description: "High-limit sports exchange trading with institutional depth and priority WhatsApp settlement for VIP players.",
+    title: "Sports Exchange Markets & Live Cricket Odds | RAMJI247",
+    description: "View live cricket, football, and tennis exchange markets on RAMJI247 with real-time odds depth, fixture schedules, and WhatsApp support.",
     url: "https://ramji247online.com/sports",
     siteName: "RAMJI247",
     images: [
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "VIP Sports Trading & High-Liquidity Exchange | RAMJI247",
-    description: "High-limit sports exchange trading with institutional depth and priority WhatsApp settlement for VIP players.",
+    title: "Sports Exchange Markets & Live Cricket Odds | RAMJI247",
+    description: "View live cricket, football, and tennis exchange markets on RAMJI247 with real-time odds depth, fixture schedules, and WhatsApp support.",
     images: ['/images/logo.png'],
   },
 };

@@ -79,7 +79,7 @@ export default function PromotionsPage() {
                   </span>
                 </div>
 
-                <h3 className="text-lg font-bold text-white mb-2">{p.title}</h3>
+                <h2 className="text-lg font-bold text-white mb-2">{p.title}</h2>
                 <p className="text-xs text-neutral-300 leading-relaxed mb-4">{p.desc}</p>
               </div>
 

@@ -123,6 +123,7 @@ export default function SportsPage() {
       </div>
 
       {/* Matches Grid */}
+      <h2 className="sr-only">Active &amp; Upcoming Sports Exchange Markets</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {filteredMatches.map((match) => (
           <MatchCard

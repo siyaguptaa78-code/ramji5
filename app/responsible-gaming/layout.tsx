@@ -1,15 +1,15 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "VIP Responsible Gaming & Self-Exclusion Lounge",
-  description: "Discreet and comprehensive tools for high-roller bankroll safeguarding, cooling off, and self-exclusion.",
-  keywords: ["vip responsible gaming","high limit cooling off","safe gaming concierge"],
+  title: "Responsible Gaming & 18+ Player Protection",
+  description: "Learn about RAMJI247 18+ responsible gaming policies, session discipline guidelines, bankroll limits, and WhatsApp self-exclusion tools.",
+  keywords: ["ramji247 responsible gaming","18+ player protection","self exclusion tools"],
   alternates: {
     canonical: "https://ramji247online.com/responsible-gaming",
   },
   openGraph: {
-    title: "VIP Responsible Gaming & Self-Exclusion Lounge | RAMJI247",
-    description: "Discreet and comprehensive tools for high-roller bankroll safeguarding, cooling off, and self-exclusion.",
+    title: "Responsible Gaming & 18+ Player Protection | RAMJI247",
+    description: "Learn about RAMJI247 18+ responsible gaming policies, session discipline guidelines, bankroll limits, and WhatsApp self-exclusion tools.",
     url: "https://ramji247online.com/responsible-gaming",
     siteName: "RAMJI247",
     images: [
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "VIP Responsible Gaming & Self-Exclusion Lounge | RAMJI247",
-    description: "Discreet and comprehensive tools for high-roller bankroll safeguarding, cooling off, and self-exclusion.",
+    title: "Responsible Gaming & 18+ Player Protection | RAMJI247",
+    description: "Learn about RAMJI247 18+ responsible gaming policies, session discipline guidelines, bankroll limits, and WhatsApp self-exclusion tools.",
     images: ['/images/logo.png'],
   },
 };
