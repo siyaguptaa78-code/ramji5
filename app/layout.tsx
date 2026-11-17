@@ -135,18 +135,7 @@ export default function RootLayout({
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-
-              gtag('consent', 'default', {
-                'analytics_storage': 'granted',
-                'ad_storage': 'denied',
-                'ad_user_data': 'denied',
-                'ad_personalization': 'denied'
-              });
-
-              gtag('config', 'G-GHWFZJD0ZX', {
-                'anonymize_ip': true,
-                'cookie_flags': 'SameSite=None;Secure'
-              });
+              gtag('config', 'G-GHWFZJD0ZX');
             `,
           }}
         />
