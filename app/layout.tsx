@@ -1,10 +1,10 @@
 import type { Metadata } from 'next';
 import './globals.css';
-import { 
-  Navbar, 
-  Footer, 
-  WhatsAppFloatingButton, 
-  LiveTicker, 
+import {
+  Navbar,
+  Footer,
+  WhatsAppFloatingButton,
+  LiveTicker,
   JsonLd,
   SITE_CONFIGS,
   GENERAL_FAQS
@@ -127,7 +127,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
-        {/* Google tag (gtag.js) - Google Analytics 4 */}
+        {/* Google tag (gtag.js) */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-GHWFZJD0ZX" />
         <script
           dangerouslySetInnerHTML={{
@@ -143,8 +143,8 @@ export default function RootLayout({
       </head>
       <body className="bg-[#0f0307] text-neutral-100 flex flex-col min-h-screen antialiased selection:bg-rose-600 selection:text-white">
         <LiveTicker badgeText="RAMJI247 VIP CLUB" />
-        <Navbar 
-          siteName={config.name} 
+        <Navbar
+          siteName={config.name}
           brandNumber={config.brandNumber}
           accentColor="text-rose-400 border-rose-500/30"
           badgeStyle="bg-rose-500/10 text-rose-400"
@@ -152,14 +152,14 @@ export default function RootLayout({
         <main className="flex-1 w-full">
           {children}
         </main>
-        <Footer 
-          siteName={config.name} 
-          brandNumber={config.brandNumber} 
-          tagline={config.tagline} 
+        <Footer
+          siteName={config.name}
+          brandNumber={config.brandNumber}
+          tagline={config.tagline}
         />
-        <WhatsAppFloatingButton 
-          siteName={config.name} 
-          customMessage={config.defaultWhatsAppMessage} 
+        <WhatsAppFloatingButton
+          siteName={config.name}
+          customMessage={config.defaultWhatsAppMessage}
         />
       </body>
     </html>
