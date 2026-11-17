@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="#0f0307"/>
+  <text x="40" y="45" font-family="'Montserrat', sans-serif" font-weight="800" font-size="20" fill="#f43f5e">Blackjack Rule Variations: Impact on House Edge</text>
+  <text x="40" y="70" font-family="'Poppins', sans-serif" font-size="13" fill="#9ca3af">How common table rules increase or decrease player return-to-player (RTP).</text>
+
+  <rect x="40" y="100" width="720" height="40" rx="4" fill="#18070d"/>
+  <text x="50" y="125" font-family="'Poppins', sans-serif" font-size="13" fill="#ffffff">6:5 Blackjack Payout (Avoid)</text>
+  <rect x="300" y="110" width="280" height="20" rx="3" fill="#ef4444"/>
+  <text x="590" y="125" font-family="'Montserrat', sans-serif" font-weight="800" font-size="13" fill="#f87171">+1.39% Edge to House</text>
+
+  <rect x="40" y="150" width="720" height="40" rx="4" fill="#18070d"/>
+  <text x="50" y="175" font-family="'Poppins', sans-serif" font-size="13" fill="#ffffff">Dealer Hits Soft 17 (H17)</text>
+  <rect x="300" y="160" width="120" height="20" rx="3" fill="#f59e0b"/>
+  <text x="430" y="175" font-family="'Montserrat', sans-serif" font-weight="800" font-size="13" fill="#fbbf24">+0.22% Edge to House</text>
+
+  <rect x="40" y="200" width="720" height="40" rx="4" fill="#18070d"/>
+  <text x="50" y="225" font-family="'Poppins', sans-serif" font-size="13" fill="#ffffff">Double After Split Allowed (DAS)</text>
+  <rect x="300" y="210" width="90" height="20" rx="3" fill="#10b981"/>
+  <text x="400" y="225" font-family="'Montserrat', sans-serif" font-weight="800" font-size="13" fill="#34d399">-0.14% Edge (Player Advantage)</text>
+
+  <rect x="40" y="250" width="720" height="40" rx="4" fill="#18070d"/>
+  <text x="50" y="275" font-family="'Poppins', sans-serif" font-size="13" fill="#ffffff">Late Surrender Allowed</text>
+  <rect x="300" y="260" width="70" height="20" rx="3" fill="#10b981"/>
+  <text x="380" y="275" font-family="'Montserrat', sans-serif" font-weight="800" font-size="13" fill="#34d399">-0.08% Edge (Player Advantage)</text>
+</svg>

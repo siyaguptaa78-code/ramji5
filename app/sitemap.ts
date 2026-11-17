@@ -24,6 +24,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
+      url: `${baseUrl}/blog`,
+      lastModified: currentDate,
+      changeFrequency: 'daily',
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/blog/understanding-roulette-odds-probabilities-and-mathematical-house-edge`,
+      lastModified: currentDate,
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/blog/live-dealer-blackjack-rules-basic-strategy-chart-and-card-mechanics`,
+      lastModified: currentDate,
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    {
       url: `${baseUrl}/promotions`,
       lastModified: currentDate,
       changeFrequency: 'weekly',
@@ -49,4 +67,3 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 }
-

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0f0307"/>
+  <rect x="40" y="40" width="1120" height="550" rx="16" fill="#18070d" stroke="#3d0c1e"/>
+  <text x="80" y="90" font-family="'Montserrat', sans-serif" font-weight="900" font-size="28" fill="#f43f5e">RAMJI247 ONLINE • BLACKJACK EDUCATION</text>
+  <text x="80" y="130" font-family="'Montserrat', sans-serif" font-weight="800" font-size="34" fill="#ffffff">Live Dealer Blackjack Rules &amp; Mathematical Edge</text>
+  <text x="80" y="160" font-family="'Poppins', sans-serif" font-size="16" fill="#9ca3af">Minimizing house advantage to under 0.5% with mathematically optimal basic strategy.</text>
+
+  <!-- Key Pillars -->
+  <rect x="80" y="200" width="330" height="340" rx="10" fill="#240c14" stroke="#f43f5e"/>
+  <text x="100" y="240" font-family="'Montserrat', sans-serif" font-weight="800" font-size="15" fill="#fb7185">01. 3:2 VS 6:5 PAYOUTS</text>
+  <text x="100" y="280" font-family="'Poppins', sans-serif" font-weight="700" font-size="16" fill="#ffffff">The Most Critical Table Rule</text>
+  <text x="100" y="315" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Standard 3:2 pays ₹1,500 on ₹1,000</text>
+  <text x="100" y="345" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Inferior 6:5 pays only ₹1,200</text>
+  <text x="100" y="375" font-family="'Poppins', sans-serif" font-size="14" fill="#fca5a5">• 6:5 increases house edge by +1.39%</text>
+  <rect x="100" y="430" width="290" height="50" rx="6" fill="#0f0307"/>
+  <text x="115" y="460" font-family="'Poppins', sans-serif" font-weight="700" font-size="13" fill="#10b981">Never play on 6:5 blackjack tables</text>
+
+  <rect x="435" y="200" width="330" height="340" rx="10" fill="#240c14" stroke="#f59e0b"/>
+  <text x="455" y="240" font-family="'Montserrat', sans-serif" font-weight="800" font-size="15" fill="#fbbf24">02. DEALER SOFT 17</text>
+  <text x="455" y="280" font-family="'Poppins', sans-serif" font-weight="700" font-size="16" fill="#ffffff">S17 vs H17 Rule Impact</text>
+  <text x="455" y="315" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Stand on Soft 17 (S17) is player friendly</text>
+  <text x="455" y="345" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Hit on Soft 17 (H17) adds +0.22% to edge</text>
+  <text x="455" y="375" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Double After Split (DAS) reduces edge</text>
+  <rect x="455" y="430" width="290" height="50" rx="6" fill="#0f0307"/>
+  <text x="470" y="460" font-family="'Poppins', sans-serif" font-weight="700" font-size="13" fill="#fbbf24">Seek tables where Dealer Stands on S17</text>
+
+  <rect x="790" y="200" width="330" height="340" rx="10" fill="#240c14" stroke="#10b981"/>
+  <text x="810" y="240" font-family="'Montserrat', sans-serif" font-weight="800" font-size="15" fill="#34d399">03. BASIC STRATEGY</text>
+  <text x="810" y="280" font-family="'Poppins', sans-serif" font-weight="700" font-size="16" fill="#ffffff">Mathematical Optimality</text>
+  <text x="810" y="315" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Always split Aces and 8s</text>
+  <text x="810" y="345" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Never split 10s or 5s</text>
+  <text x="810" y="375" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Double 11 against dealer 2 through 10</text>
+  <rect x="810" y="430" width="290" height="50" rx="6" fill="#0f0307"/>
+  <text x="825" y="460" font-family="'Poppins', sans-serif" font-weight="700" font-size="13" fill="#34d399">Total House Edge With Strategy: ~0.45%</text>
+</svg>

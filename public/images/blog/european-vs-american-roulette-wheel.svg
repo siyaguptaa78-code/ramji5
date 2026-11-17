@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0f0307"/>
+  <rect x="40" y="40" width="1120" height="550" rx="16" fill="#18070d" stroke="#3d0c1e"/>
+  <text x="80" y="90" font-family="'Montserrat', sans-serif" font-weight="900" font-size="28" fill="#f43f5e">RAMJI247 ONLINE • MATHEMATICS OF GAMING</text>
+  <text x="80" y="130" font-family="'Montserrat', sans-serif" font-weight="800" font-size="34" fill="#ffffff">European vs American Roulette: Wheel Physics &amp; House Edge</text>
+  <text x="80" y="160" font-family="'Poppins', sans-serif" font-size="16" fill="#9ca3af">Mathematical probability, expected value (EV), and the statistical impact of the double zero (00).</text>
+
+  <!-- European Wheel -->
+  <rect x="80" y="200" width="490" height="340" rx="12" fill="#240c14" stroke="#10b981" stroke-width="2"/>
+  <rect x="100" y="220" width="180" height="30" rx="6" fill="#10b981"/>
+  <text x="110" y="240" font-family="'Montserrat', sans-serif" font-weight="800" font-size="13" fill="#ffffff">EUROPEAN ROULETTE</text>
+  <text x="100" y="280" font-family="'Poppins', sans-serif" font-weight="700" font-size="18" fill="#ffffff">Single Zero (0) • 37 Pockets</text>
+  <text x="100" y="320" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Numbers: 1 through 36 + single '0'</text>
+  <text x="100" y="350" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Single Number Odds: 1 in 37 (2.70%)</text>
+  <text x="100" y="380" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Outside Even-Money Win: 18/37 (48.65%)</text>
+  <rect x="100" y="420" width="450" height="75" rx="8" fill="#0f0307" stroke="#10b981"/>
+  <text x="120" y="448" font-family="'Montserrat', sans-serif" font-weight="800" font-size="16" fill="#10b981">MATHEMATICAL HOUSE EDGE: 2.70%</text>
+  <text x="120" y="475" font-family="'Poppins', sans-serif" font-size="13" fill="#a7f3d0">With French La Partage rule on even money: Drops to 1.35%</text>
+
+  <!-- American Wheel -->
+  <rect x="630" y="200" width="490" height="340" rx="12" fill="#240c14" stroke="#ef4444" stroke-width="2"/>
+  <rect x="650" y="220" width="180" height="30" rx="6" fill="#ef4444"/>
+  <text x="660" y="240" font-family="'Montserrat', sans-serif" font-weight="800" font-size="13" fill="#ffffff">AMERICAN ROULETTE</text>
+  <text x="650" y="280" font-family="'Poppins', sans-serif" font-weight="700" font-size="18" fill="#ffffff">Double Zero (0 &amp; 00) • 38 Pockets</text>
+  <text x="650" y="320" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Numbers: 1 through 36 + '0' + '00'</text>
+  <text x="650" y="350" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Single Number Odds: 1 in 38 (2.63%)</text>
+  <text x="650" y="380" font-family="'Poppins', sans-serif" font-size="14" fill="#e2e8f0">• Outside Even-Money Win: 18/38 (47.37%)</text>
+  <rect x="650" y="420" width="450" height="75" rx="8" fill="#0f0307" stroke="#ef4444"/>
+  <text x="670" y="448" font-family="'Montserrat', sans-serif" font-weight="800" font-size="16" fill="#ef4444">MATHEMATICAL HOUSE EDGE: 5.26%</text>
+  <text x="670" y="475" font-family="'Poppins', sans-serif" font-size="13" fill="#fca5a5">Nearly DOUBLE the house tax compared to European tables</text>
+</svg>

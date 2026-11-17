@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="#0f0307"/>
+  <text x="40" y="45" font-family="'Montserrat', sans-serif" font-weight="800" font-size="20" fill="#f43f5e">Blackjack Basic Strategy Decision Cheat Sheet</text>
+  <text x="40" y="70" font-family="'Poppins', sans-serif" font-size="13" fill="#9ca3af">Core mathematical actions against dealer upcard.</text>
+
+  <rect x="40" y="100" width="720" height="70" rx="8" fill="#18070d" stroke="#f43f5e"/>
+  <text x="60" y="130" font-family="'Montserrat', sans-serif" font-weight="800" font-size="14" fill="#fb7185">HARD TOTALS DECISIONS:</text>
+  <text x="60" y="155" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">8 or less: Hit | 9: Double 3-6 else Hit | 10: Double 2-9 | 11: Double 2-10 | 12-16: Stand vs 2-6 else Hit | 17+: Stand</text>
+
+  <rect x="40" y="185" width="720" height="70" rx="8" fill="#18070d" stroke="#f59e0b"/>
+  <text x="60" y="215" font-family="'Montserrat', sans-serif" font-weight="800" font-size="14" fill="#fbbf24">SOFT TOTALS (WITH ACE):</text>
+  <text x="60" y="240" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">A,2 to A,5: Double 4-6 else Hit | A,6/A,7: Double 3-6 else Stand/Hit | A,8+: Always Stand</text>
+
+  <rect x="40" y="270" width="720" height="70" rx="8" fill="#18070d" stroke="#10b981"/>
+  <text x="60" y="300" font-family="'Montserrat', sans-serif" font-weight="800" font-size="14" fill="#34d399">PAIR SPLITTING:</text>
+  <text x="60" y="325" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">Always Split A,A &amp; 8,8 | Never Split 10,10 or 5,5 | Split 9,9 vs 2-6, 8,9 | Split 7,7 vs 2-7 | Split 2,2 &amp; 3,3 vs 2-7</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="#0f0307"/>
+  <text x="40" y="45" font-family="'Montserrat', sans-serif" font-weight="800" font-size="20" fill="#f43f5e">The Martingale Progression: Exponential Risk vs Fixed Return</text>
+  <text x="40" y="70" font-family="'Poppins', sans-serif" font-size="13" fill="#9ca3af">Why doubling bets after losses inevitably encounters table limits or catastrophic loss.</text>
+
+  <rect x="40" y="100" width="720" height="210" rx="8" fill="#18070d" stroke="#3d0c1e"/>
+  <text x="60" y="130" font-family="'Montserrat', sans-serif" font-weight="700" font-size="14" fill="#fb7185">BET PROGRESSION TABLE (STARTING STAKE: ₹500):</text>
+  <text x="60" y="160" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">Loss 1: ₹1,000 | Total Risked: ₹1,500 | Net Win If Hit: ₹500</text>
+  <text x="60" y="185" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">Loss 2: ₹2,000 | Total Risked: ₹3,500 | Net Win If Hit: ₹500</text>
+  <text x="60" y="210" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">Loss 3: ₹4,000 | Total Risked: ₹7,500 | Net Win If Hit: ₹500</text>
+  <text x="60" y="235" font-family="'Poppins', sans-serif" font-size="13" fill="#fca5a5">Loss 6: ₹32,000 | Total Risked: ₹63,500 | Net Win If Hit: ₹500</text>
+  <text x="60" y="260" font-family="'Poppins', sans-serif" font-weight="700" font-size="13" fill="#ef4444">Loss 8: ₹1,28,000 | Total Risked: ₹2,55,500 | Hits Table Maximum Limit!</text>
+  <text x="60" y="295" font-family="'Poppins', sans-serif" font-size="12" fill="#9ca3af">A streak of 7 consecutive opposite outcomes occurs once every 128 cycles (far more common than intuitive prediction).</text>
+</svg>

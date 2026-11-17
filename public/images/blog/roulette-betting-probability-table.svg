@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <rect width="800" height="420" fill="#0f0307"/>
+  <text x="40" y="45" font-family="'Montserrat', sans-serif" font-weight="800" font-size="20" fill="#f43f5e">European Roulette: Bet Types &amp; Probability Table</text>
+  <text x="40" y="70" font-family="'Poppins', sans-serif" font-size="13" fill="#9ca3af">Mathematical probability and payout structure across all recognized bets.</text>
+
+  <!-- Table Header -->
+  <rect x="40" y="95" width="720" height="35" rx="4" fill="#3d0c1e"/>
+  <text x="60" y="118" font-family="'Montserrat', sans-serif" font-weight="700" font-size="13" fill="#ffffff">BET NAME</text>
+  <text x="250" y="118" font-family="'Montserrat', sans-serif" font-weight="700" font-size="13" fill="#ffffff">NUMBERS COVERED</text>
+  <text x="450" y="118" font-family="'Montserrat', sans-serif" font-weight="700" font-size="13" fill="#ffffff">PAYOUT</text>
+  <text x="600" y="118" font-family="'Montserrat', sans-serif" font-weight="700" font-size="13" fill="#ffffff">PROBABILITY</text>
+
+  <!-- Rows -->
+  <rect x="40" y="135" width="720" height="35" fill="#18070d"/>
+  <text x="60" y="158" font-family="'Poppins', sans-serif" font-weight="600" font-size="13" fill="#f43f5e">Straight Up (Single)</text>
+  <text x="250" y="158" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">1 Number</text>
+  <text x="450" y="158" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">35 to 1</text>
+  <text x="600" y="158" font-family="'Poppins', sans-serif" font-weight="700" font-size="13" fill="#a7f3d0">2.70%</text>
+
+  <rect x="40" y="175" width="720" height="35" fill="#240c14"/>
+  <text x="60" y="198" font-family="'Poppins', sans-serif" font-weight="600" font-size="13" fill="#f43f5e">Split</text>
+  <text x="250" y="198" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">2 Numbers</text>
+  <text x="450" y="198" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">17 to 1</text>
+  <text x="600" y="198" font-family="'Poppins', sans-serif" font-weight="700" font-size="13" fill="#a7f3d0">5.41%</text>
+
+  <rect x="40" y="215" width="720" height="35" fill="#18070d"/>
+  <text x="60" y="238" font-family="'Poppins', sans-serif" font-weight="600" font-size="13" fill="#f43f5e">Street</text>
+  <text x="250" y="238" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">3 Numbers</text>
+  <text x="450" y="238" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">11 to 1</text>
+  <text x="600" y="238" font-family="'Poppins', sans-serif" font-weight="700" font-size="13" fill="#a7f3d0">8.11%</text>
+
+  <rect x="40" y="255" width="720" height="35" fill="#240c14"/>
+  <text x="60" y="278" font-family="'Poppins', sans-serif" font-weight="600" font-size="13" fill="#f43f5e">Corner / Square</text>
+  <text x="250" y="278" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">4 Numbers</text>
+  <text x="450" y="278" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">8 to 1</text>
+  <text x="600" y="278" font-family="'Poppins', sans-serif" font-weight="700" font-size="13" fill="#a7f3d0">10.81%</text>
+
+  <rect x="40" y="295" width="720" height="35" fill="#18070d"/>
+  <text x="60" y="318" font-family="'Poppins', sans-serif" font-weight="600" font-size="13" fill="#f43f5e">Dozen / Column</text>
+  <text x="250" y="318" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">12 Numbers</text>
+  <text x="450" y="318" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">2 to 1</text>
+  <text x="600" y="318" font-family="'Poppins', sans-serif" font-weight="700" font-size="13" fill="#a7f3d0">32.43%</text>
+
+  <rect x="40" y="335" width="720" height="35" fill="#240c14"/>
+  <text x="60" y="358" font-family="'Poppins', sans-serif" font-weight="600" font-size="13" fill="#f43f5e">Even Money (Red/Black)</text>
+  <text x="250" y="358" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">18 Numbers</text>
+  <text x="450" y="358" font-family="'Poppins', sans-serif" font-size="13" fill="#e2e8f0">1 to 1</text>
+  <text x="600" y="358" font-family="'Poppins', sans-serif" font-weight="700" font-size="13" fill="#a7f3d0">48.65%</text>
+
+  <text x="40" y="400" font-family="'Poppins', sans-serif" font-size="12" fill="#9ca3af">All bet categories carry the identical 2.70% house edge over extended trials.</text>
+</svg>
