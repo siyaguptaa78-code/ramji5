@@ -127,7 +127,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
-        {/* Google tag (gtag.js) */}
+        {/* Google tag (gtag.js) - Google Analytics 4 */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-GHWFZJD0ZX" />
         <script
           dangerouslySetInnerHTML={{
@@ -135,7 +135,18 @@ export default function RootLayout({
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-GHWFZJD0ZX');
+
+              gtag('consent', 'default', {
+                'analytics_storage': 'granted',
+                'ad_storage': 'denied',
+                'ad_user_data': 'denied',
+                'ad_personalization': 'denied'
+              });
+
+              gtag('config', 'G-GHWFZJD0ZX', {
+                'anonymize_ip': true,
+                'cookie_flags': 'SameSite=None;Secure'
+              });
             `,
           }}
         />
