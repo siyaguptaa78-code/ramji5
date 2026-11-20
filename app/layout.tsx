@@ -127,21 +127,30 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
-        {/* Google tag (gtag.js) */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-GHWFZJD0ZX" />
+        {/* Google Tag Manager */}
         <script
           dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'G-GHWFZJD0ZX');
-            `,
+            __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFGXJ6BM');`,
           }}
         />
+        {/* End Google Tag Manager */}
         <JsonLd data={jsonLdData} />
       </head>
       <body className="bg-[#0f0307] text-neutral-100 flex flex-col min-h-screen antialiased selection:bg-rose-600 selection:text-white">
+        {/* Google Tag Manager (noscript) */}
+        <noscript>
+          <iframe
+            src="https://www.googletagmanager.com/ns.html?id=GTM-WFGXJ6BM"
+            height="0"
+            width="0"
+            style={{ display: 'none', visibility: 'hidden' }}
+          />
+        </noscript>
+        {/* End Google Tag Manager (noscript) */}
         <LiveTicker badgeText="RAMJI247 VIP CLUB" />
         <Navbar
           siteName={config.name}
