@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       url: `https://ramji247online.com/blog/${post.slug}`,
       siteName: 'RAMJI247 Online',
       type: 'article',
-      publishedTime: '2026-11-18T00:00:00.000Z',
+      publishedTime: new Date(post.publishedDate).toISOString(),
       authors: [post.author],
       images: [
         {
@@ -62,8 +62,8 @@ export default function BlogPostPage({ params }: PageProps) {
     headline: post.title,
     description: post.summary,
     url: `https://ramji247online.com/blog/${post.slug}`,
-    datePublished: '2026-11-18T00:00:00.000Z',
-    dateModified: '2026-11-18T00:00:00.000Z',
+    datePublished: new Date(post.publishedDate).toISOString(),
+    dateModified: new Date(post.publishedDate).toISOString(),
     mainEntityOfPage: {
       '@type': 'WebPage',
       '@id': `https://ramji247online.com/blog/${post.slug}`,

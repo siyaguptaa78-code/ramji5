@@ -447,5 +447,156 @@ export const RAMJI5_BLOG_POSTS: BlogPost[] = [
         </div>
       </section>
     `
+  },
+  {
+    slug: 'blair-tickner-injury-india-vs-new-zealand-second-test',
+    title: 'Blair Tickner Ruled Out of Second India Test: What New Zealand Must Fix Before Christchurch',
+    shortTitle: 'Blair Tickner Injury & NZ Squad Update',
+    metaTitle: 'Blair Tickner Ruled Out of Second India Test: What New Zealand Must Fix Before Christchurch',
+    metaDescription: 'New Zealand pacer Blair Tickner will miss the Christchurch Test against India with a hamstring injury. Matt Fisher has been added to the squad.',
+    category: 'Daily Sports News',
+    readTime: '4 Min Read',
+    publishedDate: 'November 24, 2026',
+    author: 'RAMJI247 Sports Editorial Desk',
+    heroImage: '/images/blog/ramji247online-com-daily-sports-news-24-nov-2026.webp',
+    summary: 'New Zealand will be without fast bowler Blair Tickner for the second Test against India after suffering a right hamstring injury in training ahead of the Christchurch Test. Pacer Matt Fisher has been added to the 14-player squad as the hosts face a crucial fast-bowling selection decision.',
+    tableOfContents: [
+      { id: 'injury-setback', label: '1. A Fresh Injury Setback for New Zealand' },
+      { id: 'why-change-matters', label: '2. Why the Change Matters' },
+      { id: 'what-to-watch', label: '3. What to Watch in Christchurch' },
+      { id: 'quick-facts', label: '4. Quick Facts: Christchurch Test' },
+      { id: 'takeaway', label: '5. The Takeaway: Bowling Depth Tested' },
+      { id: 'sources-citations', label: '6. Official Sources & Reporting' },
+      { id: 'faqs', label: '7. Frequently Asked Questions' }
+    ],
+    faqs: [
+      {
+        q: 'Why is Blair Tickner ruled out of the second Test against India?',
+        a: 'Blair Tickner suffered a right hamstring injury during training leading into the Christchurch Test match against India, ruling him out of the fixture.'
+      },
+      {
+        q: 'Who has been named as Blair Tickner\'s replacement?',
+        a: 'Pacer Matt Fisher has been officially added to New Zealand\'s 14-player Test squad as Tickner\'s direct replacement.'
+      },
+      {
+        q: 'When and where is the second Test taking place?',
+        a: 'The second Test is scheduled to be played in Christchurch from 27 November to 1 December 2026.'
+      },
+      {
+        q: 'How did the first Test in Wellington end?',
+        a: 'The opening Test in Wellington ended in a draw after India declared at 720/9 and New Zealand mounted strong resistance with the bat.'
+      }
+    ],
+    contentHtml: `
+      <section id="injury-setback" class="mb-12">
+        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6 border-b border-rose-500/30 pb-3 flex items-center gap-3">
+          <span class="w-2.5 h-8 bg-rose-500 rounded-full inline-block"></span>
+          1. A Fresh Injury Setback for New Zealand
+        </h2>
+        <p class="text-slate-300 leading-relaxed text-base md:text-lg mb-6">
+          New Zealand will be without fast bowler Blair Tickner for the second Test against India after he suffered a right hamstring injury in training. The match is scheduled to begin in Christchurch on 27 November.
+        </p>
+        <p class="text-slate-300 leading-relaxed text-base md:text-lg mb-6">
+          Matt Fisher has been added to the 14-player squad as Tickner's replacement. The update gives the hosts another selection decision after the opening Test in Wellington ended in a draw.
+        </p>
+        <div class="my-8 rounded-2xl overflow-hidden border border-slate-800 bg-slate-950 p-4">
+          <img src="/images/blog/ramji247online-com-daily-sports-news-24-nov-2026.webp" alt="New Zealand fast bowler walking from the cricket field during a match" class="w-full h-auto rounded-lg" />
+          <p class="text-xs text-slate-400 text-center mt-3 font-mono">Figure: New Zealand face a fast-bowling selection decision ahead of the Christchurch Test.</p>
+        </div>
+      </section>
+
+      <section id="why-change-matters" class="mb-12">
+        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6 border-b border-rose-500/30 pb-3 flex items-center gap-3">
+          <span class="w-2.5 h-8 bg-rose-500 rounded-full inline-block"></span>
+          2. Why the Change Matters
+        </h2>
+        <p class="text-slate-300 leading-relaxed text-base md:text-lg mb-6">
+          Tickner's absence reduces New Zealand's pace options, while the team is already without all-rounder Mitchell Santner, who is recovering from a fractured right hand.
+        </p>
+        <p class="text-slate-300 leading-relaxed text-base md:text-lg mb-6">
+          Fisher arrives with recent experience against India: he took six wickets during the preceding ODI series. That form could help him enter the conversation for a place in the playing XI.
+        </p>
+      </section>
+
+      <section id="what-to-watch" class="mb-12">
+        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6 border-b border-rose-500/30 pb-3 flex items-center gap-3">
+          <span class="w-2.5 h-8 bg-rose-500 rounded-full inline-block"></span>
+          3. What to Watch in Christchurch
+        </h2>
+        <p class="text-slate-300 leading-relaxed text-base md:text-lg mb-6">
+          New Zealand will want more consistency from their bowling attack after India made 720/9 declared in Wellington. The hosts, however, showed considerable resistance with the bat to secure the draw.
+        </p>
+        <p class="text-slate-300 leading-relaxed text-base md:text-lg mb-6">
+          The key question is whether Fisher gets an immediate opportunity or New Zealand stick with their existing pace combination. The final team will depend on conditions and the balance the selectors want.
+        </p>
+      </section>
+
+      <section id="quick-facts" class="mb-12">
+        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6 border-b border-rose-500/30 pb-3 flex items-center gap-3">
+          <span class="w-2.5 h-8 bg-rose-500 rounded-full inline-block"></span>
+          4. Quick Facts
+        </h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
+          <div class="bg-slate-900/80 border border-slate-800 p-5 rounded-xl">
+            <span class="text-xs font-mono uppercase text-rose-400 block mb-1">Second Test</span>
+            <p class="text-white font-semibold text-base">27 November to 1 December 2026</p>
+            <span class="text-xs text-slate-400">Christchurch, New Zealand</span>
+          </div>
+          <div class="bg-slate-900/80 border border-slate-800 p-5 rounded-xl">
+            <span class="text-xs font-mono uppercase text-rose-400 block mb-1">Tickner Injury</span>
+            <p class="text-white font-semibold text-base">Ruled out with right hamstring injury</p>
+            <span class="text-xs text-slate-400">Sustained during team training session</span>
+          </div>
+          <div class="bg-slate-900/80 border border-slate-800 p-5 rounded-xl">
+            <span class="text-xs font-mono uppercase text-rose-400 block mb-1">Replacement Added</span>
+            <p class="text-white font-semibold text-base">Matt Fisher (Added to Squad)</p>
+            <span class="text-xs text-slate-400">Took 6 wickets in recent ODI series vs India</span>
+          </div>
+          <div class="bg-slate-900/80 border border-slate-800 p-5 rounded-xl">
+            <span class="text-xs font-mono uppercase text-rose-400 block mb-1">First Test Result</span>
+            <p class="text-white font-semibold text-base">Wellington Test: Drawn</p>
+            <span class="text-xs text-slate-400">Series level 0-0 entering Christchurch</span>
+          </div>
+        </div>
+      </section>
+
+      <section id="takeaway" class="mb-12">
+        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6 border-b border-rose-500/30 pb-3 flex items-center gap-3">
+          <span class="w-2.5 h-8 bg-rose-500 rounded-full inline-block"></span>
+          5. The Takeaway
+        </h2>
+        <p class="text-slate-300 leading-relaxed text-base md:text-lg mb-6">
+          New Zealand have not lost the series, but another injury has narrowed their options. Christchurch now becomes an important test of the depth and flexibility of their bowling group.
+        </p>
+      </section>
+
+      <section id="sources-citations" class="mb-12">
+        <h2 class="text-2xl md:text-3xl font-bold text-white mb-6 border-b border-rose-500/30 pb-3 flex items-center gap-3">
+          <span class="w-2.5 h-8 bg-rose-500 rounded-full inline-block"></span>
+          6. Sources & Official Reporting
+        </h2>
+        <div class="p-6 bg-slate-900/60 border border-slate-800 rounded-2xl">
+          <p class="text-slate-400 text-sm mb-4">
+            This article reflects cited reporting and official tournament information available on 24 November 2026:
+          </p>
+          <ul class="space-y-3 text-sm text-slate-300">
+            <li class="flex items-center gap-2">
+              <span class="w-1.5 h-1.5 rounded-full bg-rose-400"></span>
+              <strong class="text-white">ICC Official Squad Update:</strong>
+              <a href="https://www.icc-cricket.com/tournaments/world-test-championship/news/new-zealand-lose-fast-bowler-to-injury-for-second-india-test" target="_blank" rel="noopener noreferrer" class="text-rose-400 hover:text-rose-300 underline break-all">
+                New Zealand lose fast bowler to injury for second India Test (ICC World Test Championship)
+              </a>
+            </li>
+            <li class="flex items-center gap-2">
+              <span class="w-1.5 h-1.5 rounded-full bg-rose-400"></span>
+              <strong class="text-white">Reuters Report:</strong>
+              <a href="https://www.reuters.com/sports/cricket/new-zealand-lose-tickner-hamstring-injury-second-india-test-2026-11-24/" target="_blank" rel="noopener noreferrer" class="text-rose-400 hover:text-rose-300 underline break-all">
+                New Zealand lose Tickner to hamstring injury for second India Test (Reuters)
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+    `
   }
 ];

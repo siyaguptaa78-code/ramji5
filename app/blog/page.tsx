@@ -39,7 +39,7 @@ export default function BlogHubPage() {
       headline: post.title,
       description: post.summary,
       url: `https://ramji247online.com/blog/${post.slug}`,
-      datePublished: '2026-11-18',
+      datePublished: new Date(post.publishedDate).toISOString().split('T')[0],
       author: {
         '@type': 'Organization',
         name: post.author,
